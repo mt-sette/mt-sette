@@ -1,6 +1,15 @@
 # 👋 Hi, I’m Matteo Sette
 
-Full Stack Web Developer specializing in the MERN stack with a background in Biology. Known for my drive, strong analytical abilities, and excellent communication skills. Passionate about contributing to projects focused on creating seamless user experiences and thriving in team-oriented environments. Always eager to expand my programming skills and knowledge.
+```js
+const profile = {
+  role: "Full Stack Web Developer",
+  stack: "MERN",
+  traits: ["drive", "strong analytical skills", "excellent communication"],
+  goals: "Contribute to user-focused projects and thrive in team environments",
+  aspirations: "Expand programming skills"
+};
+
+```
 
 ## **Skills**
 
