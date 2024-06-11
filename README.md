@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mt-sette
+- 👋 Hi, I’m Matteo Sette
 
-[Short bio about yourself and your interests]
+Full Stack Web Developer specializing in the MERN stack with a background in Biology. Known for my drive, strong analytical abilities, and excellent communication skills. Passionate about contributing to projects focused on creating seamless user experiences and thriving in team-oriented environments. Always eager to expand my programming skills and knowledge.
 
 **Skills**
 
