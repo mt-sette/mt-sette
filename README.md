@@ -24,4 +24,4 @@ const profile = {
 
 ## **Get In Touch**
 
-* [LinkedIn](linkedin.com/in/matteo-sette/)
+* [LinkedIn](https://linkedin.com/in/matteo-sette/)
